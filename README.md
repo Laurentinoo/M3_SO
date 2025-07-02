@@ -5,7 +5,7 @@ Repositório para o trabalho da M3 da disciplina de Sistemas Operacionais
 ## Alunos
 
 - Gabriel Laurentino Tourinho  
-- Victor Menez Ferreira
+- Victor Menezes Ferreira
 - Gustavo Garcia Tomazoni
 
 ---
