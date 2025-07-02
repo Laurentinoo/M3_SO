@@ -13,5 +13,5 @@ Repositório para o trabalho da M3 da disciplina de Sistemas Operacionais
 ## Comandos para Compilação
 
 ```bash
-g++ main.cpp -o main_fs
+g++ main.c -o main_fs
 ./main_fs
